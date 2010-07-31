@@ -1,0 +1,5 @@
+From Chillibear's blog (http://www.chillibear.org/blog/2010/04/comparing-version-numbers-with-ruby.html):
+
+"I was about to do some comparisons of file version numbers, standard sorts like 1.0.4, a straight string comparison isn’t really ideal since 1.0.2 would be larger than 1.0.10. I assumed there would be a ruby class for this already created, or if not I was going to create one! A moment of searching turned up this simple class for comparing versions (called revisions)."
+
+Original author: Hugh Sasse, De Montfort University <hgs@dmu.ac.uk>
